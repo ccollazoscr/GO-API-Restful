@@ -1,0 +1,15 @@
+//Ejecutar un programa
+go run NombreArchivo.go
+
+//Documentación de paquetes
+go doc nombrepaquete
+Eje: go doc time
+
+//Tabultar código
+go fmt nombreFichero.go
+
+//Compilar y obtener un ejecutable
+go build nombreFichero.go
+
+//Compilar todos los archivos y ejecutarlos
+go run .
